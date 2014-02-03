@@ -1,0 +1,16 @@
+{
+  "name": "qualaroo",
+  "version": "0.0.1",
+  "repo": "logo/qualaroo",
+  "images": [
+    "images/logo-white.svg",
+    "images/logo.svg"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "development": {
+    "logo/logo": "*"
+  },
+  "license": "MIT"
+}
