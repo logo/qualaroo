@@ -1,18 +1,2 @@
-
-/**
- * Qualaroo
- */
-
-.logo[data-logo="Qualaroo"] {
-  width: 3.830585251em;
-  /* (2.349/0.5519) * (1-.1) - 0 */
-}
-
-.logo[data-logo="Qualaroo"] > * {
-  background-image: url(images/logo.svg);
-  margin: 0 0 .1em 0;
-}
-
-.logo[data-logo="Qualaroo"][data-color="white"] > * {
-  background-image: url(images/logo-white.svg);
-}
+@import 'logo/logo';
+@import './style';
