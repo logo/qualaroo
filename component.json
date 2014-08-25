@@ -3,7 +3,7 @@
   "name": "qualaroo",
   "repo": "logo/qualaroo",
   "description": "The Qualaroo logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
